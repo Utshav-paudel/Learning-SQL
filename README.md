@@ -23,12 +23,12 @@ WHERE condition
 Here is sample program :
 ![Sample program](https://github.com/Utshav-paudel/Learning-SQL/blob/396c5955c91c1a28587883705087a4bd39d4be46/image/day1.png)
 # Day2
-:large_blue_diamond: COUNT
+:large_blue_diamond: COUNT:
 COUNT() is a built in function that retrieves the number of rows that matches the query crietaria .
-![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/860902eb2c60d0c6a81713bf0e893fe89b2e5cb0/image/day%202%20COUNT.png\)
-:large_blue_diamond: DISTINCT
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/860902eb2c60d0c6a81713bf0e893fe89b2e5cb0/image/day%202%20COUNT.png)
+:large_blue_diamond: DISTINCT:
 The ```SELECT DISTINCT``` statement is used to return only distinct (different) values.
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/860902eb2c60d0c6a81713bf0e893fe89b2e5cb0/image/day2%20DISTINCT.png)
-:large_blue_diamond:LIMIT
+:large_blue_diamond:LIMIT: 
 LIMIT is used for restricting the number of rows retrieved from databases.
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/860902eb2c60d0c6a81713bf0e893fe89b2e5cb0/image/day2%20LIMIT.png)
