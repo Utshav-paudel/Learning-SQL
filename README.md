@@ -43,3 +43,15 @@ syntax:
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 ```
+
+## UPDATE
+This statement is used to modify the existing records in a table.
+Syntax:
+```SQL
+UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+```
+**Warning** : If you use update statement without WHERE clause it will change all records in the table
+
+![https://github.com/Utshav-paudel/Learning-SQL/blob/dcd3cc237d9fe038885648c966c43063adffc712/image/day3%20meme.jpg](https://github.com/Utshav-paudel/Learning-SQL/blob/dcd3cc237d9fe038885648c966c43063adffc712/image/day3%20meme.jpg)
