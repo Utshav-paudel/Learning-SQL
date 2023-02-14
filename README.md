@@ -34,3 +34,12 @@ The ```SELECT DISTINCT``` statement is used to return only distinct (different) 
 :large_blue_diamond:LIMIT: 
 LIMIT is used for restricting the number of rows retrieved from databases.
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/860902eb2c60d0c6a81713bf0e893fe89b2e5cb0/image/day2%20LIMIT.png)
+
+# Day3
+## INSERT
+This statement is used to add new rows to a table
+syntax:
+```SQL
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
