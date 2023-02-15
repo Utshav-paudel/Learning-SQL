@@ -67,3 +67,41 @@ DELETE FROM table_name WHERE condition;
 Today I have revised all concepts of SQL from previous days and here is a cheatsheet of statement used in sql:
 
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/1b8dbbac687bff11d4209511b168c63d7e133966/image/day4%20cheatsheet.png)
+
+After revision I learn about :
+* **Relational database model**<br>
+It is database where data is stored in tables.
+* **Entity Relationship model**
+Entity are tables and attributes are columns.
+For e.g: If book is entity then its title,price,page,author all this are attributes
+* **Primary keys and foreign keys**<br>
+Primary keys are unique key that identifes the rows in a table.<br>
+Foreign keys are primary key from another table that helps to create relationship.
+## Types of SQL statement
+### 1.DDL statement(Data Definition Language)
+Used for definition of table,change or drop data .
+* CREATE
+* ALTER
+* TRUNCATE
+* DROP
+### 2.DML statement(Data Manipulation Language)
+Used for read and modifying of data i.e manipulation of data .
+* INSERT
+* SELECT
+* UPDATE
+* DELETE
+we had already learned about DMl statement .
+Today we will start with DDL statement.
+
+### CREATE
+It is used to create table in a database.
+syntax:
+```SQL
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    column3 datatype,
+   ....
+);
+```
+
