@@ -71,8 +71,8 @@ Today I have revised all concepts of SQL from previous days and here is a cheats
 After revision I learn about :
 * **Relational database model**<br>
 It is database where data is stored in tables.
-* **Entity Relationship model**
-Entity are tables and attributes are columns.
+* **Entity Relationship model**<br>
+Entity are tables and attributes are columns.<br>
 For e.g: If book is entity then its title,price,page,author all this are attributes
 * **Primary keys and foreign keys**<br>
 Primary keys are unique key that identifes the rows in a table.<br>
@@ -83,13 +83,13 @@ Used for definition of table,change or drop data .
 * CREATE
 * ALTER
 * TRUNCATE
-* DROP
+* DROP<br>
 ### 2.DML statement(Data Manipulation Language)
 Used for read and modifying of data i.e manipulation of data .
 * INSERT
 * SELECT
 * UPDATE
-* DELETE
+* DELETE<br>
 we had already learned about DMl statement .
 Today we will start with DDL statement.
 
