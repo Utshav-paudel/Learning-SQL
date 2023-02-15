@@ -90,7 +90,7 @@ Used for read and modifying of data i.e manipulation of data .
 * SELECT
 * UPDATE
 * DELETE<br>
-we had already learned about DMl statement .
+we had already learned about DML statement .
 Today we will start with DDL statement.
 
 ### CREATE
