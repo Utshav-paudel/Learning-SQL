@@ -63,3 +63,7 @@ Syntax:
 DELETE FROM table_name WHERE condition;
 ```
 
+# Day4
+Today I have revised all concepts of SQL from previous days and here is a cheatsheet of statement used in sql:
+
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/1b8dbbac687bff11d4209511b168c63d7e133966/image/day4%20cheatsheet.png)
