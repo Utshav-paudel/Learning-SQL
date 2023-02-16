@@ -104,4 +104,26 @@ CREATE TABLE table_name (
    ....
 );
 ```
-
+# Day4
+Today I continued DDL statement ,
+### ALTER 
+It is used to add or remove columns,keys,constraints and modify the data types of columns.<br>
+Syntax:
+```SQL  
+ALTER TABLE table_name
+ADD column_name datatype;
+```
+### DROP 
+It is used to drop existing table from the databases.
+<br>
+Syntax:
+```SQL
+DROP TABLE table_name;
+```
+### TRUNCATE
+It is used to delete the data inside the table but not the table itself.
+<br>
+Syntax:
+```SQL
+TRUNCATE TABLE table_name;
+```
