@@ -126,7 +126,7 @@ It is used to delete the data inside the table but not the table itself.
 Syntax:
 ```SQL
 TRUNCATE TABLE table_name;
-```![Uploading day5 cheatsheet of ddl.png…]()
+```
 
 ### Cheatsheet for DDL statement
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/06a923b57ca5b2ecf59b3e01596a7b1f23d56dbf/image/day5%20cheatsheet%20of%20ddl.png)
