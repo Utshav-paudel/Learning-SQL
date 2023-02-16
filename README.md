@@ -104,7 +104,7 @@ CREATE TABLE table_name (
    ....
 );
 ```
-# Day4
+# Day5
 Today I continued DDL statement ,
 ### ALTER 
 It is used to add or remove columns,keys,constraints and modify the data types of columns.<br>
