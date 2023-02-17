@@ -136,6 +136,11 @@ TRUNCATE TABLE table_name;
 
 When we exactly don't know what predicate to use with WHERE clause we use String patterns,Ranges and sets.
 LIKE and NOT LIKE are some example of string patterns
+Before learning about them lets see some symbol and their representation:
+<br>
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/61742a652e0a4243ee7145b4f9f714d3dfff8bc6/image/day6%20character%20and%20it%20meaning.png)
+<br>
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/61742a652e0a4243ee7145b4f9f714d3dfff8bc6/image/day6%20example%20pattern%20and%20meaning.png)
 ### String patterns
 *LIKE
 ```SQL
