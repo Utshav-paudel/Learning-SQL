@@ -142,12 +142,12 @@ Before learning about them lets see some symbol and their representation:
 <br>
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/61742a652e0a4243ee7145b4f9f714d3dfff8bc6/image/day6%20example%20pattern%20and%20meaning.png)
 ### String patterns
-*LIKE
+* LIKE
 ```SQL
 SELECT name FROM planets
   WHERE name LIKE "%us";
   ```
-*NOT LIKE
+* NOT LIKE
 ```SQL
 SELECT name FROM planets
   WHERE name NOT LIKE "%u%";
