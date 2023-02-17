@@ -130,3 +130,27 @@ TRUNCATE TABLE table_name;
 
 ### Cheatsheet for DDL statement
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/06a923b57ca5b2ecf59b3e01596a7b1f23d56dbf/image/day5%20cheatsheet%20of%20ddl.png)
+
+# Day6
+### String Patterns,Ranges and sets
+
+When we exactly don't know what predicate to use with WHERE clause we use String patterns,Ranges and sets.
+LIKE and NOT LIKE are some example of string patterns
+### String patterns
+*LIKE
+```SQL
+SELECT name FROM planets
+  WHERE name LIKE "%us";
+  ```
+*NOT LIKE
+```SQL
+SELECT name FROM planets
+  WHERE name NOT LIKE "%u%";
+```
+
+### Range
+Range is used with where clause as follow:
+```SQL
+SELECT * FROM employees WHERE salary BETWEEN 40000 AND 80000;
+```
+
