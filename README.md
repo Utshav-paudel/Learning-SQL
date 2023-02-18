@@ -158,4 +158,6 @@ Range is used with where clause as follow:
 ```SQL
 SELECT * FROM employees WHERE salary BETWEEN 40000 AND 80000;
 ```
-
+# Day7
+Today I learning about various method that helps to retrieve data from database or sort data according to user requirement
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/1b75e61d2d866f3cb70e389e9eb5a567a9d80a12/image/day7%20sorting%20.png)
