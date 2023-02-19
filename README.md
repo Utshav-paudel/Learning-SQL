@@ -163,17 +163,18 @@ Today I learning about various method that helps to retrieve data from database 
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/1b75e61d2d866f3cb70e389e9eb5a567a9d80a12/image/day7%20sorting%20.png)
 
 # Day8
+
 Today I learned about built in function in SQL.
-* ### Aggregate or column functions.
+### Aggregate or column functions.
 This functions take columns as input and return single value output.
-** SUM(),MIN(),MAX(),AVG().<br>
+* SUM(),MIN(),MAX(),AVG().<br>
 Syntax:<br>
 ```SQL
 SELECT SUM(COLUMN_NAME) FROM TABLE_NAME;
 ```
-* ### Scalar and string function.
+### Scalar and string function.
 This functions perform operation on every input value.<br>
-    * ROUND(),LENGTH(),UCASE,LCASE<br>
+* ROUND(),LENGTH(),UCASE,LCASE<br>
 <br>
 Syntax:
 <br>
@@ -181,7 +182,7 @@ Syntax:
 SELECT f_name FROM employee
 WHERE LCASE(ADDRESS)="kathmandu";
 ```
-* ### Date and time built in functions<br>
-    * YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
+### Date and time built in functions<br>
+* YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
 
 
