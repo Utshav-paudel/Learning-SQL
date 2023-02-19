@@ -177,12 +177,11 @@ This functions perform operation on every input value.<br>
 * ROUND(),LENGTH(),UCASE,LCASE<br>
 <br>
 Syntax:
-<br>
 ```SQL
 SELECT f_name FROM employee
 WHERE LCASE(ADDRESS)="kathmandu";
 ```
-### Date and time built in functions<br>
+### Date and time built in functions
 * YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
 
 
