@@ -175,12 +175,13 @@ SELECT SUM(COLUMN_NAME) FROM TABLE_NAME;
 ### Scalar and string function.
 This functions perform operation on every input value.<br>
 * ROUND(),LENGTH(),UCASE,LCASE<br>
-<br>
 Syntax:
+
 ```SQL
 SELECT f_name FROM employee
 WHERE LCASE(ADDRESS)="kathmandu";
 ```
+
 ### Date and time built in functions
 * YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
 
