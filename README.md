@@ -172,8 +172,8 @@ Syntax:<br>
 SELECT SUM(COLUMN_NAME) FROM TABLE_NAME;
 ```
 * ### Scalar and string function.
-This functions perform operation on every input value.
-** ROUND(),LENGTH(),UCASE,LCASE<br>
+This functions perform operation on every input value.<br>
+    * ROUND(),LENGTH(),UCASE,LCASE<br>
 <br>
 Syntax:
 <br>
@@ -181,7 +181,7 @@ Syntax:
 SELECT f_name FROM employee
 WHERE LCASE(ADDRESS)="kathmandu";
 ```
-* ### Date and time built in functions
-** YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
+* ### Date and time built in functions<br>
+    * YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
 
 
