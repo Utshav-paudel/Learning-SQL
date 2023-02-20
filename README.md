@@ -186,3 +186,13 @@ WHERE LCASE(ADDRESS)="kathmandu";
 * YEAR(),MONTH(),DAY(),DAYOFMONTH(),DAYOFYEAR(),DAYOFWEEK(),WEEK(),HOUR(),MINUTE(),SECOND()
 
 
+# Day9
+Today I learned about the subqueries in SQL.<br>
+**subquery**: A subquery is a SQL query nested inside a larger query.<br>
+A subquery may occur in :
+* A SELECT clause
+*A FROM clause
+* A WHERE clause
+Syntax:
+
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/db82ebc7821b890fbc4e6afb7cc6ca50e692bc47/image/day9%20subquery%20syntax.png)
