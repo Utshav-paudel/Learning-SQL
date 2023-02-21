@@ -198,4 +198,13 @@ Syntax:
 
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/db82ebc7821b890fbc4e6afb7cc6ca50e692bc47/image/day9%20subquery%20syntax.png)
 
+# Day10
 
+Today, I learned about how to work with multiple tables in SQL. Here are some of the key points I learned:
+
+* In a relational database, information is often stored in multiple tables to avoid redundancy and ensure data consistency.
+* This means that we need to use SQL queries that combine data from multiple tables in order to answer certain questions.
+* To do this, we can use SQL JOIN statements, which allow us to combine rows from two or more tables based on a related column between them.
+* There are several types of JOINs, including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN. Each type of JOIN behaves slightly differently and can be used in different scenarios.
+*When working with multiple tables, it's important to understand how the tables are related to each other. This typically involves looking at the foreign key columns that link the tables together.
+*By using JOINs and other SQL techniques like using subqueries and implicit join , we can extract valuable insights and answers from even the most complex data sets. Working with multiple tables in SQL can be complex, but it's an essential skill for anyone working with relational databases.
