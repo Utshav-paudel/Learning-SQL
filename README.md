@@ -208,3 +208,7 @@ Today, I learned about how to work with multiple tables in SQL. Here are some of
 * There are several types of JOINs, including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN. Each type of JOIN behaves slightly differently and can be used in different scenarios.
 *When working with multiple tables, it's important to understand how the tables are related to each other. This typically involves looking at the foreign key columns that link the tables together.
 *By using JOINs and other SQL techniques like using subqueries and implicit join , we can extract valuable insights and answers from even the most complex data sets. Working with multiple tables in SQL can be complex, but it's an essential skill for anyone working with relational databases.
+
+# Cheatsheet for built in function and working with multiple table
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/f4eba55e485ef827f04aa267df4d3263d3b90d58/image/day10%20cheatsheet.png)
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/f4eba55e485ef827f04aa267df4d3263d3b90d58/image/day10.1%20cheatsheet.png)
