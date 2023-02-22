@@ -212,3 +212,12 @@ Today, I learned about how to work with multiple tables in SQL. Here are some of
 # Cheatsheet for built in function and working with multiple table
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/f4eba55e485ef827f04aa267df4d3263d3b90d58/image/day10%20cheatsheet.png)
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/f4eba55e485ef827f04aa267df4d3263d3b90d58/image/day10.1%20cheatsheet.png)
+
+# Day11
+Today, I learned about db-api that let us allow to use database using python .
+
+# DB API module
+This module provides a simple and consistent interface to connect to a database and execute SQL statements using the Python DB API 2.0 specification.
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/d43a8bffc299e75510061302ae4badb035904224/image/day11%20dbapi.jpg)
+
+[Here](https://github.com/Utshav-paudel/Learning-SQL/blob/d43a8bffc299e75510061302ae4badb035904224/code/Creating%20tables,inserting%20data%20and%20querying.ipynb) is sample of creating table,inserting query in DB Api from jupyter notebook.
