@@ -221,3 +221,12 @@ This module provides a simple and consistent interface to connect to a database 
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/d43a8bffc299e75510061302ae4badb035904224/image/day11%20dbapi.jpg)
 
 [Here](https://github.com/Utshav-paudel/Learning-SQL/blob/d43a8bffc299e75510061302ae4badb035904224/code/Creating%20tables,inserting%20data%20and%20querying.ipynb) is sample of creating table,inserting query in DB Api from jupyter notebook.
+
+# Day12
+Today I learned about SQL magic
+* SQL Magic is a feature in Jupyter Notebook and JupyterLab that allows users to execute SQL commands directly within the notebook environment. It is a Jupyter extension that enables users to interact with databases using SQL commands, and to display the results of those commands in the notebook.
+
+* With SQL Magic, users can connect to a variety of databases, such as MySQL, PostgreSQL, SQLite, and Oracle, and execute SQL queries to retrieve, filter, and aggregate data. The results of the queries can be displayed in various formats, such as tables, charts, or graphs, using visualization libraries like Matplotlib or Seaborn.
+
+* SQL Magic simplifies the process of data analysis and manipulation by providing an easy-to-use interface for executing SQL commands in a notebook environment. It allows users to seamlessly integrate SQL with other programming languages like Python, R, or Julia, and to share their SQL code and results with others using Jupyter notebooks.
+![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/02161cc1d45fee7c6c9d1019d531adbefc6adcc1/image/day12%20sql%20magic.jpeg)
