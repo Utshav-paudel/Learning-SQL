@@ -230,3 +230,5 @@ Today I learned about SQL magic
 
 * SQL Magic simplifies the process of data analysis and manipulation by providing an easy-to-use interface for executing SQL commands in a notebook environment. It allows users to seamlessly integrate SQL with other programming languages like Python, R, or Julia, and to share their SQL code and results with others using Jupyter notebooks.
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/02161cc1d45fee7c6c9d1019d531adbefc6adcc1/image/day12%20sql%20magic.jpeg)
+
+[here](https://github.com/Utshav-paudel/Learning-SQL/blob/bf91994024373293bd344a46e09907e58fb4ad92/code/Accessing%20database%20using%20sql%20magic.ipynb) is sample of accessing database using SQL magic
