@@ -245,12 +245,12 @@ Use underscores to map spaces and other characters. for e.g:
 * <strong>Splitting queries in multiple line in jupyter</strong>
 1. In case of %sql , use backslash.
 2. In case of %%sql , no need of backslash.
-* <strong>Restricitng numbers of rows retrieving from databases.</strong>
+* <strong>Restricitng numbers of rows retrieving from databases.</strong>  
 Use LIMIT function.
 * <strong>Getting a list of tables in the databases</strong>
-1. Db2
+1. Db2  
 Use SYSCAT.TABLES
-2. SQL serverd
+2. SQL serverd  
 use INFORMATION_SCHEMA.TABLES
-3. Oracle
+3. Oracle  
 ALL_TABLES or USER_TABLES
