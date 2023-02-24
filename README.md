@@ -232,3 +232,25 @@ Today I learned about SQL magic
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/02161cc1d45fee7c6c9d1019d531adbefc6adcc1/image/day12%20sql%20magic.jpeg)
 
 [here](https://github.com/Utshav-paudel/Learning-SQL/blob/bf91994024373293bd344a46e09907e58fb4ad92/code/Accessing%20database%20using%20sql%20magic.ipynb) is sample of accessing database using SQL magic
+
+# Day13
+Today I learned about using sql in jupyternotebook. 
+* <strong>QUERYING  column names with mixed (upper and lower) case.</strong>
+
+use double quote for e.g
+```select "Id" from dog```
+* <strong>QUERYING column names with spaces and special characters.</strong>
+Use underscores to map spaces and other characters. for e.g:
+```Breed (dominant)``` is written as ```Breed__dominant_```
+* <strong>Splitting queries in multiple line in jupyter</strong>
+1. In case of %sql , use backslash.
+2. In case of %%sql , no need of backslash.
+* <strong>Restricitng numbers of rows retrieving from databases.</strong>
+Use LIMIT function.
+* <strong>Getting a list of tables in the databases</strong>
+1. Db2
+Use SYSCAT.TABLES
+2. SQL serverd
+use INFORMATION_SCHEMA.TABLES
+3. Oracle
+ALL_TABLES or USER_TABLES
