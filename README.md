@@ -1,5 +1,5 @@
 # Learning-SQL
-In this repo I will be uploading my learning on SQL .
+This repository contains my notes, exercises, and projects as I learn SQL. It's designed to help others who are new to SQL get started with this powerful language. I'll be sharing short and easy-to-understand explanations of key concepts, as well as code examples and queries that demonstrate how to use SQL to solve real-world problems. Join me on my journey to become an SQL pro!
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/c5e6b0447c2456eb0f48901c5370d9b730ae5780/image/sql.jpg)
 # Day1
 ### What is SQl ?
