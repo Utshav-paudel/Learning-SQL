@@ -1,6 +1,9 @@
 # Learning-SQL
 <strong>This repository contains my notes, exercises, and projects as I learn SQL. It's designed to help who are new to SQL get started with this powerful language. I'll be sharing short and easy-to-understand explanations of key concepts, as well as code examples and queries that demonstrate how to use SQL to solve real-world problems. Join me on my journey to become an SQL pro!</strong>
 ![alt text](https://github.com/Utshav-paudel/Learning-SQL/blob/c5e6b0447c2456eb0f48901c5370d9b730ae5780/image/sql.jpg)
+|**Projects of SQL**|
+| ----------------- |
+|[**MUSIC STORE DATA ANALYSIS**]()|
 # Day1
 ### What is SQl ?
 SQL is a standard language for storing, manipulating and retrieving data in databases.
